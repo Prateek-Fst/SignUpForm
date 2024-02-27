@@ -11,12 +11,15 @@ This is a simple sign-up form built with React. It allows users to input their u
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/react-signup-form.git
+git clone  https://github.com/Prateek-Fst/SignUpForm.git
 2. Navigate into the project directory:
-3. Install dependencies:
-4. Run the application:
+3. cd sign
+4. Install dependencies:
+5. npm install
+6. Run the application:
+7. npm start
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+8. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
 ## Usage
 
